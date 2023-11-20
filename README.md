@@ -10,7 +10,7 @@
 <!-- **Nabanit08/Nabanit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-### Aboutme
+### About me
 -  🌱 I love to learn to code in different languages. 
 
 -  🙋🏻‍♂️ I am very passionate to learn **new things ❤️**.
