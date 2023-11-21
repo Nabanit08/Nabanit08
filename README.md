@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Nabanit Mandal</h1>
+<h1 align="center">Hi 👋, I'm Nabanit Mondal</h1>
 
 <h3 align="center">A passionate Full Stack Developer from India ,Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized Java . Worked through 1000+ hours of learning HTML, CSS, JavaScript, Java, Spring,Springboot ,MySQL. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
