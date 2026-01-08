@@ -10,10 +10,10 @@ Currently strengthening my **DSA and system design** skills while building real-
 ## 🛠 Tech Stack
 - **Languages:** Java  
 - **Backend:** Spring Boot, Spring Security, JWT  
-- **Databases:** MySQL  
+- **Databases:** MySQL, PostgreSQL 
 - **APIs:** RESTful APIs  
 - **Tools:** Git, GitHub, Docker (basic)  
-- **Concepts:** OOP, DSA, Authentication & Authorization
+- **Concepts:** OOPS, DSA, Authentication & Authorization
 
 ---
 
