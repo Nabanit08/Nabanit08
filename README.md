@@ -34,7 +34,7 @@ Currently strengthening my **DSA and system design** skills while building real-
 ---
 
 ## 🤝 Let's Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/nabanit-mondal-ba4999241  
+- 💼 LinkedIn: https://www.linkedin.com/in/nabanit-mondal/ 
 - 📧 Email: navy190899@gmail.com
 
 ---
