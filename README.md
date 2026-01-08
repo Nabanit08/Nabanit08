@@ -24,9 +24,6 @@ Currently strengthening my **DSA and system design** skills while building real-
 - **Courier Tracking System**  
   Integrated third-party APIs (OpenStreetMap / Nominatim) for real-time tracking
 
-- **DSA-Navy**  
-  Structured Java DSA practice repository (Arrays, Strings, Linked List, Stack, Queue)
-
 ---
 
 ## 📈 What I'm Currently Doing
